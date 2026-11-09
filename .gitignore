@@ -1,0 +1,11 @@
+# partida guardada de cada jugador
+terminochi_save.json
+*.tmp
+
+# python
+__pycache__/
+*.pyc
+
+# canciones personales (solo se sube el LEEME)
+music/*
+!music/LEEME.txt

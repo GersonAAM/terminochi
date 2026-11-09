@@ -1,0 +1,2 @@
+Pon aqui tus canciones (.mp3, .wav, .wma, .m4a).
+En el juego se mostrara solo el nombre, sin la extension.
