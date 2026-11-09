@@ -6,6 +6,16 @@ Mascota virtual para la terminal, hecha con ASCII art. Solo usa Python 3 (sin in
 python terminochi.py      # o doble clic en jugar.bat
 ```
 
+![Michi bailando en el jardín](docs/capturas/baile.gif)
+
+## Capturas
+
+| Elige a tu mascota | El jardín |
+|:---:|:---:|
+| ![Pantalla para elegir gatito, pollito o perrito](docs/capturas/seleccion.png) | ![El gatito en el jardín](docs/capturas/jardin.png) |
+| **Hora de comer** | **Fiesta disco en la habitación** |
+| ![El pollito comiendo una fresa](docs/capturas/comer.png) | ![El perrito bailando con la bola disco](docs/capturas/disco.png) |
+
 La interfaz mide **102 × 29** caracteres: si la ventana es más pequeña, el juego te avisa
 (maximízala o reduce el zoom con `Ctrl` + `-`).
 
